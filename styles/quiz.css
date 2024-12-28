@@ -1,0 +1,23 @@
+#quizform {
+    width: 40%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* text-align: center; */
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+#quizform {
+    
+    width: 50%;
+    height: 30px;
+}
+
+#quizform #login {
+    width: 10%;
+    /* align-items: center; */
+}
