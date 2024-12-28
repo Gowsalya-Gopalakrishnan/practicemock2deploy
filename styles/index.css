@@ -1,0 +1,19 @@
+#nav {
+    height: fit-content;
+    width: 100%;
+    background-color: lightseagreen;
+}
+
+#nav-cont {
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-cont a {
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+}
