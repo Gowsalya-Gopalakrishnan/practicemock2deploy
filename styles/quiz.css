@@ -1,6 +1,6 @@
 #quizform {
     width: 40%;
-    height: fit-content;
+    /* height:80px; */
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -11,13 +11,15 @@
     margin-top: 5%;
 }
 
-#quizform {
-    
+#quizform input,
+#quizform #select {
+
     width: 50%;
     height: 30px;
 }
 
-#quizform #login {
-    width: 10%;
+#quizform #addnew {
+    width: 30%;
+    height: 30px;
     /* align-items: center; */
 }
