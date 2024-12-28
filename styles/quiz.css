@@ -23,3 +23,12 @@
     height: 30px;
     /* align-items: center; */
 }
+#cont{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10%;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    */
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
